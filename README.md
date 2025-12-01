@@ -7,40 +7,10 @@ Me llamo **Raúl Calvo Santos** y soy estudiante del ciclo superior de **Desarro
 ---
 
 
-## 🚀 Lenguajes que manejo
-
-
-### 📊 Gráfico de habilidades
-
-
-<svg width="500" height="160">
-<rect x="10" y="10" width="300" height="20" fill="#ddd" rx="5"/>
-<rect x="10" y="10" width="90" height="20" fill="#4CAF50" rx="5"/>
-<text x="320" y="25" font-size="14">Java - 30%</text>
-
-
-<rect x="10" y="60" width="300" height="20" fill="#ddd" rx="5"/>
-<rect x="10" y="60" width="270" height="20" fill="#4CAF50" rx="5"/>
-<text x="320" y="75" font-size="14">CSS - 90%</text>
-
-
-<rect x="10" y="110" width="300" height="20" fill="#ddd" rx="5"/>
-<rect x="10" y="110" width="300" height="20" fill="#4CAF50" rx="5"/>
-<text x="320" y="125" font-size="14">HTML - 100%</text>
-</svg>
-
-
-------------------------------
-```
-
-
-### CSS
-🔹 90%
-```
-███████████████████████████████----
-```
-
-
+#### 🔧 Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ### HTML
 🔹 100%
 ```
