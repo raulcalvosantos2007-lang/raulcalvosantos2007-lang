@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hola, soy Raúl Calvo Santos
 
-<!--
-**raulcalvosantos2007-lang/raulcalvosantos2007-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Me llamo **Raúl Calvo Santos** y soy estudiante del ciclo superior de **Desarrollo de Aplicaciones Web (DAW)**. Previamente completé el ciclo medio de **Sistemas Microinformáticos y Redes (SMR)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+
+## 🚀 Lenguajes que manejo
+
+
+### Java
+🔹 30%
+```
+██████------------------------------
+```
+
+
+### CSS
+🔹 90%
+```
+███████████████████████████████----
+```
+
+
+### HTML
+🔹 100%
+```
+███████████████████████████████████
+```
+
+
+---
+
+
+## 📄 Currículum
+Puedes añadir aquí tu CV en PDF o un enlace directo:
+
+
+➡️ **[Descargar mi CV](ruta-a-tu-archivo.pdf)**
+
+
+*(Reemplaza "ruta-a-tu-archivo.pdf" por el enlace real en tu repositorio)*
+
+
+---
+
+
+## 📬 Contacto
+Si deseas ponerte en contacto conmigo, no dudes en escribirme.
