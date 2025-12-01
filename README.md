@@ -10,7 +10,8 @@ Me llamo Raúl Calvo Santos y soy estudiante del ciclo superior de Desarrollo de
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ---
-####CV<br>
+#### <img width="980" height="980" alt="image" src="https://github.com/user-attachments/assets/7b6a0d46-340a-464c-ba17-4c76ac2d2820" />
+ CV<br>
 <a href="https://github.com/raulcalvosantos2007-lang/raulcalvosantos2007-lang/blob/main/CV/Curriculum.pdf">CV</a>
 ---
 
