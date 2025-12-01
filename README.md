@@ -27,14 +27,3 @@ Me llamo **Raúl Calvo Santos** y soy estudiante del ciclo superior de **Desarro
 ### HTML
 🔹 100%
 ```
-
-
-
-*(Reemplaza "ruta-a-tu-archivo.pdf" por el enlace real en tu repositorio)*
-
-
----
-
-
-## 📬 Contacto
-Si deseas ponerte en contacto conmigo, no dudes en escribirme.
