@@ -13,17 +13,15 @@ Me llamo **Raúl Calvo Santos** y soy estudiante del ciclo superior de **Desarro
 ### Java
 🔹 30%
 ```
-██████------------------------------
 ```
 
 
 ### CSS
 🔹 90%
 ```
-███████████████████████████████----
 ```
 
 
 ### HTML
 🔹 100%
-```
+
