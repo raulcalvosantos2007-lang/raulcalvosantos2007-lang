@@ -21,7 +21,7 @@ Me llamo Raúl Calvo Santos y soy estudiante del ciclo superior de Desarrollo de
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/raul-calvo-santos-107454309/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"</a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/raul_cs2007/?next=%2F"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.infojobs.net/candidate/cv/view/index.xhtml?dgv=2990624914223442634"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.infojobs.net/candidate/my-infojobs.xhtml"><img src="https://play-lh.googleusercontent.com/qGMiLTc8sqH-sV-g0wFEQjklp-VagY7Zyf14cdz1NvhX2y9NATPnZDTH5TiAE6k6pVY"></a>
 
       </div>
 
