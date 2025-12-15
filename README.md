@@ -21,8 +21,7 @@ Me llamo Raúl Calvo Santos y soy estudiante del ciclo superior de Desarrollo de
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/raul-calvo-santos-107454309/"><img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"</a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/raul_cs2007/?next=%2F"><img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-         <a style="margin-left: 10px;" target="_blank" href="https://x.com/home?lang=es"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"> alt="Logo de X"
-    width="30"> </a>
+         <a style="margin-left: 10px;"> target="_blank" href="https://x.com/home?lang=es"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg"></a>
          InfoJobs
          WhastApp
          X
